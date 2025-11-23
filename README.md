@@ -5,9 +5,9 @@
 To perform complete Exploratory Data Analysis (EDA) on the Wine Quality dataset, detect and remove outliers using the IQR method, and compare the performance of a classification model (Logistic Regression) before and after outlier removal.
 
 
-***NAME : SUBASH M***
+## Name : SUBASH M
 
-***REG NO : 212224220109***
+## Reg_No : 212224220109
 
 **Algorithm**
 
